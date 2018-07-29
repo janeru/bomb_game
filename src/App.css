@@ -1,0 +1,21 @@
+
+section .box{
+  justify-content: center;
+  align-items:center;
+  text-align: center;
+}
+.box{
+  display:flex;
+  width:100%;
+  justify-content: center;
+  align-items:center;
+  text-align: center;
+}
+
+.circle{
+  height:30px;
+  width:30px;
+  border:2px solid black;
+  border-radius:60%;
+  
+}
