@@ -23,3 +23,4 @@ This is the first practice when I learn some react.
 [Click the circle] If you find bomb, its color will turn to red.
  When you find five bomb, it will close this game.
  ```# bomb_game
+# bomb_game
